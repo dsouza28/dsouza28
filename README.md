@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dsouza28
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python in Data Science
+- 🌱 I’m currently learning Computing at Sheffield Hallam University
 - 📫 You can reach me on dsouza.28@gmail.com
 
 <!---
